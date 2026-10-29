@@ -1,0 +1,18 @@
+[2026-10-29 22:00:43] [INFO] Initializing project directories...
+[2026-10-29 22:00:43] [SUCCESS] All required directories are ready
+[2026-10-29 22:00:43] [INFO] Checking required dependencies...
+[2026-10-29 22:00:43] [SUCCESS] Command 'awk' is installed.
+[2026-10-29 22:00:43] [SUCCESS] Command 'sed' is installed.
+[2026-10-29 22:00:43] [SUCCESS] Command 'grep' is installed.
+[2026-10-29 22:00:43] [SUCCESS] Command 'sort' is installed.
+[2026-10-29 22:00:43] [SUCCESS] Command 'uniq' is installed.
+[2026-10-29 22:00:43] [SUCCESS] Command 'wc' is installed.
+[2026-10-29 22:00:43] [SUCCESS] Command 'cut' is installed.
+[2026-10-29 22:00:43] [SUCCESS] Command 'head' is installed.
+[2026-10-29 22:00:43] [SUCCESS] Command 'cat' is installed.
+[2026-10-29 22:00:43] [SUCCESS] Command 'date' is installed.
+[2026-10-29 22:00:43] [SUCCESS] All required dependencies are verified
+[2026-10-29 22:01:34] [INFO] Counting Lines in data/sample.txt...
+[2026-10-29 22:01:35] [SUCCESS] Number of lines: 8
+[2026-10-29 22:01:45] [ERROR] Invalid option. Please enter a number between 1 and 9.
+[2026-10-29 22:02:01] [INFO] Exiting Toolkit. Thank you!
